@@ -1,6 +1,6 @@
 # Awesome-Function-Callings
 
-A curated list of resources for function calling in Large Language Models (LLMs), covering research papers, tools, benchmarks and industrial applications.
+This repository is consistent with our survey paper. 
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
