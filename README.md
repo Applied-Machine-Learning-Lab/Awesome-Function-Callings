@@ -444,6 +444,7 @@ The experimental results demonstrate clear performance differences between model
 | Semantic Kernel | Microsoft | [Code](https://github.com/microsoft/semantic-kernel) | SDK for building AI applications with native tool integration |
 | LangChain | LangChain | [Code](https://github.com/langchain-ai/langchain) | Framework for building applications with LLMs and tools |
 | WebCPM | Tsinghua University | [Code](https://github.com/thunlp/WebCPM) | Chinese web agent framework with browsing capabilities |
+| RemoteOpenClaw | OpenClaw | [Website](https://remoteopenclaw.com) | Open marketplace for AI skills and personas built on OpenClaw |
 
 #### Autonomous Agent Systems
 | Name | Developer | Repository | Description |
