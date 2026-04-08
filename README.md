@@ -14,8 +14,11 @@ Please cite our survey paper if this index is helpful:
 @article{wang2025comprehensive,
   title={Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Direction},
   author={Wang, Maolin and Zhang, Yingyi and Peng, Cunyin and Chen, Yicheng and Zhou, Wei and Gu, Jinjie and Zhuang, Chenyi and Guo, Ruocheng and Yu, Bowen and Wang, Wanyu and Zhao, Xiangyu},
-  url = {https://openreview.net/pdf?id=LNxVGPedFW}
-  year={2025},
+  journal={ACM Computing Surveys},
+  year={2026},
+  publisher={ACM New York, NY, USA},
+  url={https://dl.acm.org/doi/pdf/10.1145/3788284},
+  doi={10.1145/3788284}
 }
 ```
 
