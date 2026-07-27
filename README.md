@@ -426,6 +426,7 @@ The experimental results demonstrate clear performance differences between model
 | API-BLEND | [API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs](https://arxiv.org/abs/2402.15491) (Basu et al., 2024) | [Code](https://github.com/IBM/API-Blend) | Multi-domain API coverage with evaluation methods |
 | NESTOOLS | [Nestools: Crafting efficient tools across diverse scenarios](https://arxiv.org/abs/2402.07472) (Choi et al., 2024) | [Code](https://github.com/kyunghoon-han/NESTools) | Comprehensive evaluation across diverse scenarios |
 | MTU-Bench | [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](https://arxiv.org/abs/2410.11710) (Wang et al., 2024) | [Code](https://github.com/X-LANCE/MTU-Bench) | Multi-granularity tool-use evaluation |
+| StructEval | [StructEval: A Benchmark for Structured Output Generation and Conversion](https://arxiv.org/abs/2604.08523) (2026) | [Code](https://github.com/TIGER-AI-Lab/StructEval) | Evaluates LLM-generated structured outputs and cross-format conversions across 18 text and renderable formats with syntax, structural, and visual-fidelity checks |
 | WTU-EVAL | [Web tool use evaluation: Measuring large language models' capabilities on realistic web tasks](https://arxiv.org/abs/2310.03220) (Mishra et al., 2023) | [Code](https://github.com/gpt-tool-use/WTU-Eval) | Web-based tool usage evaluation framework |
 
 
