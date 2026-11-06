@@ -114,6 +114,7 @@ The training process involves specialized data preparation and fine-tuning strat
 | Reinforcement Learning & RLHF | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) (Rafailov et al., 2023) | Preference optimization without explicit reward modeling |
 | Reinforcement Learning & RLHF | [Deep reinforcement learning from human preferences](https://proceedings.neurips.cc/paper/2017/hash/d5e2c0adad503c91f91df240d0cd4e49-Abstract.html) (Christiano et al., 2017) | Foundational work on learning from human preferences |
 | Reinforcement Learning & RLHF | [The Bias-Variance Trade-off in RLHF: Overfitting to Human Feedback in Large Language Models](https://arxiv.org/abs/2311.00168) (Manduzio et al., 2023) | Analysis of overfitting risks in human feedback |
+| Reinforcement Learning & RLHF | [Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762) (Gao et al., 2026) | ToolMaster: trial-and-execution tool learning through environment interaction and self-correction, trained with SFT followed by RL (GRPO) |
 
 ### Critical Emphasis
 
